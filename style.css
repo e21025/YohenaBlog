@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+
+html {
+    margin: auto; 
+    max-width: 700px;
+    background: rgb(195, 207, 206);
+}
+
+.title {
+    font-family: 'RocknRoll One', sans-serif;
+    text-align: center;
+    font-size: 45px;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
+
+.img img {
+    width: 640px;
+}
+
+.entry h2 { 
+    margin: 0px;
+}
+
+.entry h4 {
+    margin: 0px;
+}
+ 
+.entry p {
+    margin: 0px;
+}
+
+.entry {
+    margin: 20px;
+}
